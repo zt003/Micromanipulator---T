@@ -1,6 +1,5 @@
 '''
 This file contains the the submethods for the I2C Stages.
-Last Modified: R. Nance 5/15/2018
 #####################DO NOT EDIT BELOW INFORMATION##################################
 Originating Branch: MergeStageClasses
 Originally Created: Zheng Tian 05/2018
