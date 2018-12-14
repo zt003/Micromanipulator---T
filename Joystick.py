@@ -1,6 +1,5 @@
 '''
 This file contains the functions that the joytick uses.
-Last Modified: R. Nance 5/15/2018
 #####################DO NOT EDIT BELOW INFORMATION##################################
 Originating Branch: Joystick
 Originally Created: Zheng Tian 05/2018
