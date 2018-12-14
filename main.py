@@ -2,7 +2,6 @@
 
 This file contains the main loop to be run
 
-Last Modified: Zheng Tian 6/29/2018
 #####################DO NOT EDIT BELOW INFORMATION##################################
 Originating Branch: Master
 Originally Created: R. Nance 12/2017
