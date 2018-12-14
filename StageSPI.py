@@ -4,7 +4,6 @@ This file contains the stage functions for the x and y axis communicating via SP
 WITH I2C Stages. It will fail. This only contains the Overide methods for the SPI stuff.
 
 
-Last Modified: R. Nance 5/15/2018
 #####################DO NOT EDIT BELOW INFORMATION##################################
 Originating Branch: Master
 Originally Created: Zheng Tian 05/2018
